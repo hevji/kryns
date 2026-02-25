@@ -44,8 +44,8 @@ A real-time keyboard and mouse overlay for streamers, built with Python, PyQt6 a
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/hevji/overkeys.git
-cd overkeys
+git clone https://github.com/hevji/kryns.git
+cd kryns
 
 # 2. Install dependencies
 pip install -r requirements.txt
